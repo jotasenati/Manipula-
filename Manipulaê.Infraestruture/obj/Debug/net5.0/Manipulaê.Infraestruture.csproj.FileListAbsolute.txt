@@ -1,0 +1,15 @@
+C:\Users\Jonatas\Desktop\Teste Manipulaê\Manipulaê.Infraestruture\obj\Debug\net5.0\Manipulaê.Infraestruture.csproj.AssemblyReference.cache
+C:\Users\Jonatas\Desktop\Teste Manipulaê\Manipulaê.Infraestruture\obj\Debug\net5.0\Manipulaê.Infraestruture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonatas\Desktop\Teste Manipulaê\Manipulaê.Infraestruture\obj\Debug\net5.0\Manipulaê.Infraestruture.AssemblyInfoInputs.cache
+C:\Users\Jonatas\Desktop\Teste Manipulaê\Manipulaê.Infraestruture\obj\Debug\net5.0\Manipulaê.Infraestruture.AssemblyInfo.cs
+C:\Users\Jonatas\Desktop\Teste Manipulaê\Manipulaê.Infraestruture\obj\Debug\net5.0\Manipulaê.Infraestruture.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas\Desktop\Teste Manipulaê\Manipulaê.Infraestruture\bin\Debug\net5.0\Manipulaê.Infraestruture.deps.json
+C:\Users\Jonatas\Desktop\Teste Manipulaê\Manipulaê.Infraestruture\bin\Debug\net5.0\Manipulaê.Infraestruture.dll
+C:\Users\Jonatas\Desktop\Teste Manipulaê\Manipulaê.Infraestruture\bin\Debug\net5.0\Manipulaê.Infraestruture.pdb
+C:\Users\Jonatas\Desktop\Teste Manipulaê\Manipulaê.Infraestruture\obj\Debug\net5.0\Manipulaê.Infraestruture.dll
+C:\Users\Jonatas\Desktop\Teste Manipulaê\Manipulaê.Infraestruture\obj\Debug\net5.0\refint\Manipulaê.Infraestruture.dll
+C:\Users\Jonatas\Desktop\Teste Manipulaê\Manipulaê.Infraestruture\obj\Debug\net5.0\Manipulaê.Infraestruture.pdb
+C:\Users\Jonatas\Desktop\Teste Manipulaê\Manipulaê.Infraestruture\obj\Debug\net5.0\ref\Manipulaê.Infraestruture.dll
+C:\Users\Jonatas\Desktop\Teste Manipulaê\Manipulaê.Infraestruture\bin\Debug\net5.0\Manipulaê.Infraestruture.runtimeconfig.json
+C:\Users\Jonatas\Desktop\Teste Manipulaê\Manipulaê.Infraestruture\bin\Debug\net5.0\Manipulaê.Infraestruture.runtimeconfig.dev.json
+C:\Users\Jonatas\Desktop\Teste Manipulaê\Manipulaê.Infraestruture\obj\Debug\net5.0\Manipulaê.Infraestruture.genruntimeconfig.cache
